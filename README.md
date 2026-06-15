@@ -51,22 +51,22 @@ The forecast uses simplified assumptions based on historical averages and trend 
 ## Screenshots
 
 ### Assumptions
-![Assumptions](screenshots/Assumptions.png)
+![Assumptions](./Assumptions.png)
 
 ### Income Statement
-![Income Statement](screenshots/Income%20Statement.png)
+![Income Statement](./Income%20Statement.png)
 
 ### Balance Sheet
-![Balance Sheet](screenshots/Balance%20Sheet.png)
+![Balance Sheet](./Balance%20Sheet.png)
 
 ### Cash Flow Statement
-![Cash Flow Statement](screenshots/Cash%20Flow%20Statement.png)
+![Cash Flow Statement](./Cash%20Flow%20Statement.png)
 
 ### Supporting Schedules
-![Supporting Schedules](screenshots/Supporting%20Schedules.png)
+![Supporting Schedules](./Supporting%20Schedules.png)
 
 ### Charts and Graphs
-![Charts and Graphs](screenshots/Charts%20and%20Graphs.png)
+![Charts and Graphs](./Charts%20and%20Graphs.png)
 
 ## Skills Demonstrated
 
